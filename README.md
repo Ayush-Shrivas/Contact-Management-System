@@ -1,6 +1,6 @@
 # Contact Management System
 
-![Language](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Contact Management System Hero Image](contact-management-hero.png) ![Language](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Database](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
 
@@ -36,3 +36,55 @@ Menu:
 6. Exit
 ========================================
 Enter your choice (1-6):
+```
+
+-----
+
+## Tech Stack
+
+  - **Language:** Python 3
+  - **Database:** SQLite 3 (via Python's built-in `sqlite3` module)
+
+-----
+
+## Getting Started
+
+To get a local copy up and running, follow these simple steps.
+
+### Prerequisites
+
+  - Python 3.6 or newer installed on your system.
+
+### Installation
+
+1.  Clone the repository to your local machine:
+    ```sh
+    git clone [https://github.com/Ayush-Shrivas/Contact-Management-System.git](https://github.com/Ayush-Shrivas/Contact-Management-System.git)
+    ```
+2.  Navigate to the project directory:
+    ```sh
+    cd Contact-Management-System
+    ```
+3.  No external libraries are required, as the project uses only Python's standard libraries.
+
+### Usage
+
+To start the application, run the main script from your terminal:
+
+```sh
+python main.py
+```
+
+-----
+
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for more details.
+
+-----
+
+## Contact
+
+**Ayush Shrivas**
+
+Project Link: [https://github.com/Ayush-Shrivas/Contact-Management-System](https://www.google.com/search?q=https://github.com/Ayush-Shrivas/Contact-Management-System)
