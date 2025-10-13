@@ -101,11 +101,7 @@ Follow these steps to set up and run the project:
 
 **3. Run the Application**
    - This project uses only standard Python libraries (like `sqlite3`), so no additional installation of packages is necessary.
-   - To start the contact management system, run the main script from your terminal:
-     ```sh
-     python main.py
-     ```
-
+ 
 ## Contact
 
 **Ayush Shrivas**
