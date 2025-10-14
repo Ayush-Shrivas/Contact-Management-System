@@ -1,5 +1,5 @@
-# Full-Stack Contact Management System
 
+# Full-Stack Contact Management System
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)
 [![React](https://img.shields.io/badge/React-18.x-61DAFB.svg?logo=react)](https://reactjs.org/)
@@ -76,21 +76,27 @@ The backend provides a RESTful API to manage contacts. You can test these endpoi
 | `PUT`       | `/api/contacts/{contact_id}` | Updates an existing contact's details. |
 | `DELETE`    | `/api/contacts/{contact_id}` | Deletes a specified contact.        |
 
+---
 
-# Project Structure
+## 📂 Project Structure
+
+````
 
 contact-management-system/
-├── backend/                # FastAPI application
+├── backend/                \# FastAPI application
 │   ├── app/
 │   ├── Dockerfile
 │   └── requirements.txt
-├── frontend/               # React application
+├── frontend/               \# React application
 │   ├── public/
 │   ├── src/
 │   └── Dockerfile
 ├── .gitignore
-├── docker-compose.yml      # Docker orchestration file
+├── docker-compose.yml      \# Docker orchestration file
 └── README.md
+
+```
+
 ---
 
 ## 👤 Author
@@ -99,10 +105,4 @@ contact-management-system/
 
 -   **GitHub**: [@Ayush-Shrivas](https://github.com/Ayush-Shrivas)
 -   **LinkedIn**: [Ayush Shrivas](https://www.linkedin.com/in/ayush-shrivas-190475299/)
-
----
-
-
----
-
-## 📂 Project Structure
+```
