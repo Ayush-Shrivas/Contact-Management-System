@@ -77,6 +77,7 @@ The backend provides a RESTful API to manage contacts. You can test these endpoi
 | `DELETE`    | `/api/contacts/{contact_id}` | Deletes a specified contact.        |
 
 ---
+========================================
 contact-management-system/
 ├── backend/                # FastAPI application
 │   ├── app/
@@ -89,6 +90,7 @@ contact-management-system/
 ├── .gitignore
 ├── docker-compose.yml      # Docker orchestration file
 └── README.md
+========================================
 ---
 
 ## 👤 Author
