@@ -75,6 +75,8 @@ The backend provides a RESTful API to manage contacts. You can test these endpoi
 | `GET`       | `/api/contacts/{contact_id}` | Retrieves a single contact by its ID. |
 | `PUT`       | `/api/contacts/{contact_id}` | Updates an existing contact's details. |
 | `DELETE`    | `/api/contacts/{contact_id}` | Deletes a specified contact.        |
+
+---
 contact-management-system/
 ├── backend/                # FastAPI application
 │   ├── app/
