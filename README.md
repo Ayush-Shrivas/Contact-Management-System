@@ -91,7 +91,6 @@ contact-management-system/
 ├── .gitignore
 ├── docker-compose.yml      # Docker orchestration file
 └── README.md
-
 ---
 
 ## 👤 Author
